@@ -30,6 +30,9 @@
 .home-page-top-container nav ul img {
     width: 55px;
 }
+.home-page-top-container li:hover {
+  text-decoration: underline;
+}
 .intro-text {
     font-size: 5rem;
     text-transform: uppercase;
@@ -114,4 +117,3 @@
         display: block;
     }
 }
-
